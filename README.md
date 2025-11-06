@@ -19,7 +19,6 @@ The vision of **ChainLayerX** is to build a transparent and trustless layer of d
 - NFT-based proof-of-ownership certificates.
 - API gateway for easy integration with existing systems.
 
----
 
 ### 🧠 Core Functions
 | Function | Description |
